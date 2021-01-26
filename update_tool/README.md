@@ -6,4 +6,4 @@
 ![img][config]
 4. Start the programming. 
 
-[config]: /img/config.png "config"
+[config]: https://github.com/AzizSayfutdinov/ModatProgrammerTool/blob/master/update_tool/img/config.png "config"
