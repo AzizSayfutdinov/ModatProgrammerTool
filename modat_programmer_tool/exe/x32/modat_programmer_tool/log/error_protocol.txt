@@ -1,0 +1,5 @@
+ERROR ->(SerialProgrammer)no SingleWire-Device was detected
+ERROR ->((SingleWire) discoverDevice)no device detected
+ERROR ->((SerialProgrammer) write2SingleWireMemory)device discovery failed
+INFO ->(StateMachine - SWI writing)Wrote to eeprom
+INFO ->(Statemaschine - SWI writing)Written to addr: 0
