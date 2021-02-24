@@ -1,9 +1,0 @@
-LOG -> ready
-return_error-(SerialProgrammer)no SingleWire-Device was detected-end
- STARTING THE PROGRAM 
-LOG -> (SerialProgrammer) info: no SingleWire-Device was detected
-Selected swi interface. 
-LOG -> return_error-((SingleWire) discoverDevice)no device detected-end
-return_error-((SerialProgrammer) write2SingleWireMemory)device discovery failed-end
-return_info-(StateMachine - SWI writing)Wrote to eeprom-end
-return_info-(Statemaschine - SWI writing)Written to addr: 0-end
